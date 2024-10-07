@@ -1,0 +1,171 @@
+{
+    "Titanomachy":
+    {
+        "language": {
+            "RU": {
+                "title": "Титаномахия",
+                "memoir": "Одним из наиболее значимых событий в греческой мифологии является Титаномахия. Десятилетний конфликт противостоял новым олимпийским богам против старых классических богов. Титаномахия важна, потому что она прокладывает путь к новой эре богов в греческой мифологии."
+            },
+            "GR": {
+                "title": "Τιτανομέχος",
+                "memoir": "Ένα από τα σημαντικότερα γεγονότα στην ελληνική μυθολογία είναι η τιτανομέχος. Η δεκαετή σύγκρουση έριξε τους νέους Θεούς Ολυμπιακών ενάντια στους κλασικούς θεούς των παλαιών. Η τιτανομέχος είναι σημαντική επειδή ανοίγει το δρόμο για μια νέα εποχή των θεών στην ελληνική μυθολογία."
+            }
+        },
+        "insignia": "Spartan",
+        "memoir": "One of the most significant events in Greek mythology is the Titanomachy. Known as the \"Titan Wars,\" the ten-year conflict pitted the new Olympian gods against the classical gods of old. The Titanomachy is significant because it paves the way for a new era of gods in Greek mythology."
+    },
+    "Great Pyramid of Giza":
+    {
+        "language": {
+            "RU": {
+                "title": "Пирамида Хеопса",
+                "memoir": "С высоты этих пирамид сорок веков смотрят на нас сверху вниз - Наполеон Бонапарт."
+            }
+        },
+        "insignia": "Louvre",
+        "memoir": "From the heights of these pyramids, forty centuries look down on us. - Napoleon Bonaparte."
+    },
+    "Temple of Artemis at Ephesus":
+    {
+        "language": {
+            "RU": {
+                "title": "Храм Артемиды в Эфесе",
+                "memoir": "Когда я увидел дом Артемиды, возвышавшийся над облаками, другие чудеса потеряли свой блеск, и я сказал: «Вот, кроме Олимпа, Солнце никогда не видело ничего столь величественного» - Антипатр Сидонский."
+            }
+        },
+        "insignia": "Palace",
+        "memoir": "When I saw the house of Artemis that mounted to the clouds, those other marvels lost their brilliancy, and I said, 'Lo, apart from Olympus, the Sun never looked on aught so grand.' - Antipater of Sidon."
+    },
+    "Mausoleum at Halicarnassus":
+    {
+        "language": {
+            "RU": {
+                "title": "Галикарнасский Мавзолей",
+                "memoir": "Надо мной в Галикарнасе лежит огромная гробница таких размеров и такой изысканной красоты, какой не может похвастаться ни один другой оттенок - Лукиан Самосатский."
+            }
+        },
+        "insignia": "Palace",
+        "memoir": "A vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast. - Lucian of Samosata."
+    },
+    "Colossus of Rhodes":
+    {
+        "language": {
+            "RU": {
+                "title": "Колосс Родосский",
+                "memoir": "На Родосе был установлен Колосс высотой в семьдесят локтей, символизирующий Солнце… художник израсходовал на него столько бронзы, сколько казалось вероятным, чтобы создать дефицит в рудниках - Филон Византийский."
+            }
+        },
+        "insignia": "Liberty",
+        "memoir": "At Rhodes was set up a Colossus of seventy cubits high, representing the Sun … the artist expended as much bronze on it as seemed likely to create a dearth in the mines. - Philo of Byzantium."
+    },
+    "Hanging Gardens of Babylon":
+    {
+        "language": {
+            "RU": {
+                "title": "Висячие сады Семирамиды",
+                "memoir": "Подъем на самый верхний этаж осуществляется по лестнице, а сбоку от нее расположены водяные машины, с помощью которых лица, специально назначенные для этой цели, постоянно привлекаются к подъему воды из Евфрата в сад - Страбон."
+            }
+        },
+        "insignia": "Amphora",
+        "memoir": "The ascent to the highest story is by stairs, and at their side are water engines, by means of which persons, appointed expressly for the purpose, are continually employed in raising water from the Euphrates into the garden. - Strabo."
+    },
+    "Statue of Zeus at Olympia":
+    {
+        "language": {
+            "RU": {
+                "title": "Статуя Зевса в Олимпии",
+                "memoir": "На голове бога была оливковая корона; в правой руке он держал крылатую фигуру Победы - Самуэль Августус Митчелл."
+            }
+        },
+        "insignia": "OlympicGames",
+        "memoir": "Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory. - Samuel Augustus Mitchell."
+    },
+    "Lighthouse of Alexandria":
+    {
+        "language": {
+            "RU": {
+                "title": "Александрийский маяк",
+                "memoir": "Этот Маяк был центром внимания всех - Генри Дэвид Торо."
+            }
+        },
+        "insignia": "Corinth",
+        "memoir": "This Lighthouse was the cynosure of all eyes. - Henry David Thoreau."
+    },
+    "Siege of Jerusalem (70 AD)":
+    {
+        "language": {
+            "RU": {
+                "title": "Осада Иерусалима (70 н.э.)",
+                "memoir": "Осада Иерусалима 70 г. н.э. была решающим событием первой еврейско-римской войны (66-73 гг.) Полем После пятимесячной осады римляне уничтожили город и второй еврейский храм."
+            }
+        },
+        "insignia": "Corinth",
+        "memoir": "The Siege of Jerusalem of 70 AD was the decisive event of the First Jewish-Roman War (66-73 AD), in which the Roman army led by future emperor Titus besieged Jerusalem, the center of Jewish rebel resistance in the Roman province of Judaea. Following a five-month siege, the Romans destroyed the city and the Second Jewish Temple."
+    },
+    "Vae Victis":
+    {
+        "language": {
+            "RU": {
+                "title": "Горе Побеждённым",
+                "memoir": "Согласно традиции, в 390 г. до н.э. армия Галлов во главе с Бреннусом напала на Рим, захватив весь город, за исключением капитолинового холма. Бреннус осадил холм, и, наконец, римляне попросили выкупить свой город. Бреннус потребовал 329 кг золота, и римляне согласились на его условия. Согласно жизни Плутарха Камиллуса и Ливий Аб-Урбе Кондита (Книга 5 Раздел 34-49), галлы обеспечивали баланс и веса Steelyard, которые использовались для измерения количества золота. Римляне принесли золото, но утверждали, что предоставленные веса были сфальсифицированы в пользу галлов. Римляне пожаловались Бреннусу, который взял свой меч, бросил его на вес и воскликнул, \"Горе Побеждённым!\" Ливия и Плутарх утверждают, что Камиллус впоследствии удалось победить галлов до того, как выкуп должен был быть выплачен, хотя полибий, Диодор Сикулус и более поздний отрывок из Ливи противоречит этому."
+            }
+        },
+        "insignia": "Corinth",
+        "memoir": "According to tradition, in 390 BC, an army of Gauls led by Brennus attacked Rome, capturing all of the city except for the Capitoline Hill. Brennus besieged the hill, and finally the Romans asked to ransom their city. Brennus demanded 329 kg of gold, and the Romans agreed to his terms. According to Plutarch's Life of Camillus and Livy's Ab Urbe Condita (Book 5 Sections 34-49), the Gauls provided steelyard balances and weights, which were used to measure the amount of gold. The Romans brought the gold, but claimed that the provided weights were rigged in the Gauls' favor. The Romans complained to Brennus, who took his sword, threw it onto the weights, and exclaimed, \"Vae victis!\" The Romans thus needed to bring even more gold, as they now had to counterbalance the sword as well. Livy and Plutarch claim that Camillus subsequently succeeded in defeating the Gauls before the ransom had to be paid, although Polybius, Diodorus Siculus, and a later passage from Livy contradict this."
+    },
+    "Battle of the Teutoburg Forest":
+    {
+        "language": {
+            "RU": {
+                "title": "Битва в Тевтобургском лесу",
+                "memoir": "Тевтобургский лес обычно рассматривается как один из самых важных поражений в римской истории, что приводит к торжественному периоду экспансии в соответствии с Августом внезапно. Результат этой битвы отговорил римлян от их амбиций победить Германию и, таким образом, считается одним из самых важных событий в европейской истории."
+            }
+        },
+        "insignia": "Corinth",
+        "memoir": "Teutoburg Forest is commonly seen as one of the most important defeats in Roman history, bringing the triumphant period of expansion under Augustus to an abrupt end. The outcome of this battle dissuaded the Romans from their ambition of conquering Germania, and is thus considered one of the most important events in European history."
+    },
+    "Trojan War":
+    {
+        "language": {
+            "RU": {
+                "title": "Троянская война",
+                "memoir": "Историчность Троянской войны остается открытым вопросом. Многие ученые считают, что в сказке есть историческое ядро, хотя это может означать, что гомеровские истории представляют собой слияние различных рассказов о осадах и экспедициях микенских греков во время бронзового века. Те, кто считает, что истории о троянской войне происходят из определенного исторического конфликта, обычно датируя его до 12 или 11-го века до нашей эры, часто предпочитая даты, данные эратостенесом, 1194-1184 гг. до н.э., которые примерно соответствуют археологическим доказательствам катастрофического Сжигание Трои VII, и обрушения позднего бронзового века."
+            }
+        },
+        "insignia": "Spartan",
+        "memoir": "The historicity of the Trojan War remains an open question. Many scholars believe that there is a historical core to the tale, though this may simply mean that the Homeric stories are a fusion of various tales of sieges and expeditions by Mycenaean Greeks during the Bronze Age. Those who believe that the stories of the Trojan War are derived from a specific historical conflict usually date it to the 12th or 11th century BC, often preferring the dates given by Eratosthenes, 1194–1184 BC, which roughly correspond to archaeological evidence of a catastrophic burning of Troy VII,[4] and the Late Bronze Age collapse."
+    },
+    "Great Library of Alexandria":
+    {
+        "language": {
+            "RU": {
+                "title": "Александрийская библиотека",
+                "memoir": "Мы можем бродить по раздутым стекам библиотеки Александрии, где собраны все воображение и знания; Мы можем признать в его разрушении предупреждение о том, что все, что мы собираем, будет потеряно. - Альберто Мангуэль."
+            }
+        },
+        "insignia": "Palace",
+        "memoir": "We can roam the bloated stacks of the Library of Alexandria, where all imagination and knowledge are assembled; we can recognize in its destruction the warning that all we gather will be lost. - Alberto Manguel."
+    },
+    "Fall of Western Roman Empire":
+    {
+        "language": {
+            "RU": {
+                "title": "Падение Западной Римской империи",
+                "memoir": "Римская империя была не только политическим единством, обеспечиваемым использованием военной власти; Это была также объединенная и разработанная цивилизация средиземноморского бассейна и за его пределами. Он включал производство, торговлю и архитектуру, широко распространенную светскую грамотность, письменный закон и международный язык науки и литературы. Западные варвары потеряли большую часть этих более высоких культурных практик, но их перепланировка в средние века из -за полировки, осведомленных о римском достижении, стала основой для более позднего развития Европы."
+            }
+        },
+        "insignia": "Colosseum",
+        "memoir": "The Roman Empire was not only a political unity enforced by the use of military power; it was also the combined and elaborated civilization of the Mediterranean Basin and beyond. It included manufacture, trade, and architecture, widespread secular literacy, written law, and an international language of science and literature. The Western barbarians lost much of these higher cultural practices, but their redevelopment in the Middle Ages by polities aware of the Roman achievement formed the basis for the later development of Europe."
+    },
+    "INNA":
+    {
+        "height": 1.55, "weight": 47,
+        "sizes": "84-61-86", "nsfw": "true",
+        "shoe_size": 4, "country": "RO",
+        "birthday": "October 16, 1986",
+        "language":
+        {
+            "RU": { "title": "ИННА" }
+        }
+    }
+}
