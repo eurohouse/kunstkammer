@@ -4,6 +4,7 @@
         "title": "Noblesse Oblige Le Grand Tour",
         "language":
         {
+            "CH": "Periodus Historium Le Grand Tour",
             "RU": "Большое путешествие по Европе",
             "JP": "ヨーロッパグランドツアー",
             "KR": "유럽 ​​귀족 그랜드 투어",
@@ -16,6 +17,7 @@
         "title": "Voyages of Christopher Columbus",
         "language":
         {
+            "CH": "Periodus Historium Columbus",
             "RU": "Великие географические открытия",
             "JP": "クリストファー コロンブス",
             "KR": "크리스토퍼 콜럼버스의 항해",
@@ -28,6 +30,7 @@
         "title": "Seven Wonders of the Ancient World",
         "language":
         {
+            "CH": "Periodus Historium Antiquitas",
             "RU": "Семь чудес света Древнего мира",
             "JP": "古代世界の七つの偉大な驚異",
             "KR": "고대 세계의 7대 불가사의",
