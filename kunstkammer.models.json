@@ -1,4 +1,15 @@
 {
+    "INNA":
+    {
+        "height": 1.55, "weight": 47,
+        "sizes": "84-61-86", "nsfw": "true",
+        "shoe_size": 4, "country": "RO",
+        "birthday": "October 16, 1986",
+        "language":
+        {
+            "RU": { "title": "ИННА" }
+        }
+    },
     "Titanomachy":
     {
         "language": {
@@ -156,16 +167,5 @@
         },
         "insignia": "Colosseum",
         "memoir": "The Roman Empire was not only a political unity enforced by the use of military power; it was also the combined and elaborated civilization of the Mediterranean Basin and beyond. It included manufacture, trade, and architecture, widespread secular literacy, written law, and an international language of science and literature. The Western barbarians lost much of these higher cultural practices, but their redevelopment in the Middle Ages by polities aware of the Roman achievement formed the basis for the later development of Europe."
-    },
-    "INNA":
-    {
-        "height": 1.55, "weight": 47,
-        "sizes": "84-61-86", "nsfw": "true",
-        "shoe_size": 4, "country": "RO",
-        "birthday": "October 16, 1986",
-        "language":
-        {
-            "RU": { "title": "ИННА" }
-        }
     }
 }
