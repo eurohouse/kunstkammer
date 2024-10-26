@@ -4,12 +4,29 @@
         "title": "Noblesse Oblige Le Grand Tour",
         "language":
         {
-            "CH": "Periodus Historium Le Grand Tour",
-            "RU": "Большое путешествие по Европе",
-            "JP": "ヨーロッパグランドツアー",
-            "KR": "유럽 ​​귀족 그랜드 투어",
-            "CN": "欧洲贵族盛大之旅",
-            "AE": "الجولة الأوروبية الكبرى"
+            "CH": "Periodus Historium Le Grand Tour", "GR": "Υπέροχο ταξίδι στην Ευρώπη",
+            "CY": "Υπέροχο ταξίδι στην Ευρώπη", "AM": "Ճանապարհորդություն Եվրոպայով մեկ",
+            "GE": "მოგზაურობა ევროპის გარშემო", "AZ": "Avropa ətrafında səyahət",
+            "TJ": "Сафар дар саросари Аврупо", "UZ": "Evropa bo'ylab sayohat qilish",
+            "KZ": "Еуропа бойынша саяхаттау", "RO": "Călătorind prin Europa",
+            "MD": "Călătorind prin Europa", "LK": "यूरोपदेशस्य परितः यात्रां कुर्वन्",
+            "IN": "यूरोप भर में यात्रा", "TH": "ท่องเที่ยวทั่วยุโรป",
+            "NP": "ཡུ་རོབ་སྐོར་བསྐྱོད་བྱེད་སྐབས།", "SK": "Cestovanie po Európe",
+            "SI": "Potovanje po Evropi",
+            "RU": "Большое путешествие по Европе", "UA": "Велика подорож по Європі",
+            "BY": "Вялікае падарожжа па Еўропе", "BG": "Страхотно пътуване до Европа",
+            "DE": "Tolle Reise nach Europa", "AT": "Tolle Reise nach Europa",
+            "IT": "Ottimo viaggio in Europa", "ES": "Gran viaje a Europa",
+            "MX": "Gran viaje a Europa", "PT": "Ótima viagem à Europa",
+            "BR": "Ótima viagem à Europa", "NL": "Geweldige reis naar Europa",
+            "SE": "Fantastisk resa till Europa", "NO": "Flott tur til Europa",
+            "DK": "Fantastisk tur til Europa", "FI": "Hieno matka Eurooppaan",
+            "CZ": "Skvělý výlet do Evropy", "HU": "Nagyszerű utazás Európába",
+            "PL": "Świetna podróż do Europy", "HR": "Sjajno putovanje u Europu",
+            "JP": "ヨーロッパグランドツアー", "KR": "유럽 ​​귀족 그랜드 투어",
+            "CN": "欧洲贵族盛大之旅", "AE": "الجولة الأوروبية الكبرى",
+            "SA": "الجولة الأوروبية الكبرى", "QT": "الجولة الأوروبية الكبرى",
+            "IR": "الجولة الأوروبية الكبرى", "IQ": "الجولة الأوروبية الكبرى"
         }
     },
     "001":
