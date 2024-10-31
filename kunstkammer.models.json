@@ -31,9 +31,8 @@
                 "title": "Пирамида Хеопса",
                 "memoir": "С высоты этих пирамид сорок веков смотрят на нас сверху вниз - Наполеон Бонапарт."
             }
-        }, "world_wonder": {
-            "continent": "Africa"
-        }, "insignia": "Louvre", "country": "EG",
+        }, "world_wonder": { "continent": "Africa", "start": -2584, "end": "" },
+        "insignia": "Louvre", "country": "EG",
         "memoir": "From the heights of these pyramids, forty centuries look down on us. - Napoleon Bonaparte."
     },
     "Temple of Artemis at Ephesus":
@@ -43,7 +42,8 @@
                 "title": "Храм Артемиды в Эфесе",
                 "memoir": "Когда я увидел дом Артемиды, возвышавшийся над облаками, другие чудеса потеряли свой блеск, и я сказал: «Вот, кроме Олимпа, Солнце никогда не видело ничего столь величественного» - Антипатр Сидонский."
             }
-        }, "insignia": "Palace", "country": "TR",
+        }, "world_wonder": { "continent": "Asia", "start": -550, "end": -323 },
+        "insignia": "Palace", "country": "TR",
         "memoir": "When I saw the house of Artemis that mounted to the clouds, those other marvels lost their brilliancy, and I said, 'Lo, apart from Olympus, the Sun never looked on aught so grand.' - Antipater of Sidon."
     },
     "Mausoleum at Halicarnassus":
@@ -53,9 +53,8 @@
                 "title": "Галикарнасский Мавзолей",
                 "memoir": "Надо мной в Галикарнасе лежит огромная гробница таких размеров и такой изысканной красоты, какой не может похвастаться ни один другой оттенок - Лукиан Самосатский."
             }
-        }, "world_wonder": {
-            "continent": "Asia"
-        }, "insignia": "Palace", "country": "TR",
+        }, "world_wonder": { "continent": "Asia", "start": -351, "end": 1494 },
+        "insignia": "Palace", "country": "TR",
         "memoir": "A vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast. - Lucian of Samosata."
     },
     "Colossus of Rhodes":
@@ -65,9 +64,8 @@
                 "title": "Колосс Родосский",
                 "memoir": "На Родосе был установлен Колосс высотой в семьдесят локтей, символизирующий Солнце… художник израсходовал на него столько бронзы, сколько казалось вероятным, чтобы создать дефицит в рудниках - Филон Византийский."
             }
-        }, "world_wonder": {
-            "continent": "Europe"
-        }, "insignia": "Liberty", "country": "GR",
+        }, "world_wonder": { "continent": "Asia", "start": -292, "end": 654 },
+        "insignia": "Liberty", "country": "GR",
         "memoir": "At Rhodes was set up a Colossus of seventy cubits high, representing the Sun … the artist expended as much bronze on it as seemed likely to create a dearth in the mines. - Philo of Byzantium."
     },
     "Hanging Gardens of Babylon":
@@ -77,9 +75,8 @@
                 "title": "Висячие сады Семирамиды",
                 "memoir": "Подъем на самый верхний этаж осуществляется по лестнице, а сбоку от нее расположены водяные машины, с помощью которых лица, специально назначенные для этой цели, постоянно привлекаются к подъему воды из Евфрата в сад - Страбон."
             }
-        }, "world_wonder": {
-            "continent": "Asia"
-        }, "insignia": "Amphora", "country": "IQ",
+        }, "world_wonder": { "continent": "Asia", "start": -600, "end": 1 },
+        "insignia": "Amphora", "country": "IQ",
         "memoir": "The ascent to the highest story is by stairs, and at their side are water engines, by means of which persons, appointed expressly for the purpose, are continually employed in raising water from the Euphrates into the garden. - Strabo."
     },
     "Statue of Zeus at Olympia":
@@ -89,9 +86,8 @@
                 "title": "Статуя Зевса в Олимпии",
                 "memoir": "На голове бога была оливковая корона; в правой руке он держал крылатую фигуру Победы - Самуэль Августус Митчелл."
             }
-        }, "world_wonder": {
-            "continent": "Europe"
-        }, "insignia": "OlympicGames", "country": "GR",
+        }, "world_wonder": { "continent": "Europe", "start": -435, "end": 450 },
+        "insignia": "OlympicGames", "country": "GR",
         "memoir": "Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory. - Samuel Augustus Mitchell."
     },
     "Lighthouse of Alexandria":
@@ -101,9 +97,8 @@
                 "title": "Александрийский маяк",
                 "memoir": "Этот Маяк был центром внимания всех - Генри Дэвид Торо."
             }
-        }, "world_wonder": {
-            "continent": "Africa"
-        }, "insignia": "Corinth", "country": "EG",
+        }, "world_wonder": { "continent": "Africa", "start": -280, "end": 1480 },
+        "insignia": "Corinth", "country": "EG",
         "memoir": "This Lighthouse was the cynosure of all eyes. - Henry David Thoreau."
     },
     "Siege of Jerusalem (70 AD)":
@@ -155,6 +150,16 @@
             }
         }, "insignia": "Palace", "country": "EG",
         "memoir": "We can roam the bloated stacks of the Library of Alexandria, where all imagination and knowledge are assembled; we can recognize in its destruction the warning that all we gather will be lost. - Alberto Manguel."
+    },
+    "Giverny Monet's Garden":
+    {
+        "language": {
+            "RU": {
+                "title": "Сад Моне в Живерни",
+                "memoir": "В этом водном саду вы увидите знаменитый японский мост, покрытый глициниями, другие мосты поменьше, плакучие ивы, бамбуковый лес и, прежде всего, знаменитые нимфеи, которые цветут все лето. Пруд и окружающая растительность образуют ограждение, отделенное от окружающей сельской местности. Никогда еще художник так не формировал свои сюжеты в природе, прежде чем писать их. И поэтому он создал свои работы дважды. Моне будет черпать свое вдохновение в этом водном саду более двадцати лет. После серии японских мостов он посвятит себя гигантским украшениям оранжереи. Всегда ищущий туман и прозрачность, Моне посвятит себя не столько цветам, сколько отражениям в воде, своего рода перевернутому миру, преображенному жидкой стихией."
+            }
+        }, "insignia": "Amphora", "country": "FR",
+        "memoir": "In this water garden you will find the famous Japanese bridge covered with wisterias, other smaller bridges, weeping willows, a bamboo wood and above all the famous nympheas which bloom all summer long. The pond and the surrounding vegetation form an enclosure separated from the surrounding countryside. Never before had a painter so shaped his subjects in nature before painting them. And so he created his works twice. Monet would find his inspiration in this water garden for more than twenty years. After the Japanese bridge series, he would devote himself to the giant decorations of the Orangerie. Always looking for mist and transparencies, Monet would dedicate himself less to flowers than to reflections in water, a kind of inverted world transfigured by the liquid element."
     },
     "Fall of Western Roman Empire":
     {
