@@ -35,6 +35,16 @@
         }, "insignia": "Spartan", "country": "GR",
         "memoir": "One of the most significant events in Greek mythology is the Titanomachy. Known as the \"Titan Wars,\" the ten-year conflict pitted the new Olympian gods against the classical gods of old. The Titanomachy is significant because it paves the way for a new era of gods in Greek mythology."
     },
+    "Le Grand Tour":
+    {
+        "language": {
+            "RU": {
+                "title": "Гран-тур",
+                "memoir": "Grand Tour был в основном традицией 17-го - начала 19-го века традиционного путешествия по Европе, с Италией в качестве основного пункта назначения, предпринимаемого молодыми европейскими мужчинами высшего класса с достаточными средствами и положением (обычно в сопровождении наставника или члена семьи) по достижении ими совершеннолетия (около 21 года). Обычай, который процветал примерно с 1660 года до появления крупномасштабного железнодорожного транспорта в 1840-х годах и был связан со стандартным маршрутом, служил образовательным обрядом посвящения. Хотя он был в первую очередь связан с британской знатью и богатыми землевладельцами, подобные поездки совершали богатые молодые люди из других протестантских стран Северной Европы, а со второй половины 18-го века - некоторые жители Южной и Северной Америки."
+            }
+        }, "insignia": "Ship", "country": "EU",
+        "memoir": "The Grand Tour was the principally 17th - to early 19th-century custom of a traditional trip through Europe, with Italy as a key destination, undertaken by upper-class young European men of sufficient means and rank (typically accompanied by a tutor or family member) when they had come of age (about 21 years old). The custom - which flourished from about 1660 until the advent of large-scale rail transport in the 1840s and was associated with a standard itinerary - served as an educational rite of passage. Though it was primarily associated with the British nobility and wealthy landed gentry, similar trips were made by wealthy young men of other Protestant Northern European nations, and, from the second half of the 18th century, by some South and North Americans."
+    },
     "Great Pyramid of Giza":
     {
         "language": {
@@ -45,6 +55,116 @@
         }, "world_wonder": { "continent": "Africa", "start": -2584, "end": "" },
         "insignia": "Louvre", "country": "EG",
         "memoir": "From the heights of these pyramids, forty centuries look down on us. - Napoleon Bonaparte."
+    },
+    "Rapa Nui":
+    {
+        "language": {
+            "RU": {
+                "title": "Остров Пасхи",
+                "memoir": "Устная традиция гласит, что остров был впервые заселен экспедицией на двух каноэ, прибывшей из Мараэ Ренга (или Мараэ Тое Хау — также известной как Острова Кука) под руководством вождя Хоту Матуа и его капитана Туу ко Ихо. Остров был впервые исследован после того, как Хаумака увидел во сне такую ​​далекую страну; Хоту посчитал это место достойным местом для побега от соседнего вождя, которому он уже проиграл три битвы. На момент их прибытия на острове был один одинокий поселенец, Нга Таваке 'а Те Рона. После недолгого пребывания в Анакене колонисты поселились в разных частях острова. На острове родился наследник Хоту, Туу ма Хеке. Туу ко Ихо считается лидером, который принес статуи и заставил их ходить."
+            }
+        },
+        "insignia": "Amphora", "country": "CL",
+        "memoir": "Oral tradition states the island was first settled by a two-canoe expedition originating from Marae Renga (or Marae Toe Hau - otherwise known as Cook Islands), and led by the chief Hotu Matu'a and his captain Tu'u ko Iho. The island was first scouted after Haumaka dreamed of such a far-off country; Hotu deemed it a worthwhile place to flee from a neighboring chief, one to whom he had already lost three battles. At their time of arrival, the island had one lone settler, Nga Tavake 'a Te Rona. After a brief stay at Anakena, the colonists settled in different parts of the island. Hotu's heir, Tu'u ma Heke, was born on the island. Tu'u ko Iho is viewed as the leader who brought the statues and caused them to walk."
+    },
+    "Stonehenge":
+    {
+        "language": {
+            "RU": {
+                "title": "Стоунхендж",
+                "memoir": "Стоунхендж был местом захоронения с момента своего основания и до своего расцвета в середине третьего тысячелетия до н. э. Кремационное захоронение, относящееся к периоду сарсеновых камней Стоунхенджа, вероятно, является лишь одним из многих, относящихся к более позднему периоду использования памятника, и свидетельствует о том, что он по-прежнему оставался в значительной степени владением мертвых."
+            }
+        },
+        "insignia": "Amphora", "country": "GB",
+        "memoir": "Stonehenge was a place of burial from its beginning to its zenith in the mid third millennium B.C. The cremation burial dating to Stonehenge's sarsen stones phase is likely just one of many from this later period of the monument's use and demonstrates that it was still very much a domain of the dead."
+    },
+    "Ishtar Gate":
+    {
+        "language": {
+            "RU": {
+                "title": "Ворота Иштар",
+                "memoir": "Царь Навуходоносор II правил в 604-562 гг. до н. э., в период расцвета Нововавилонской империи. Он известен как библейский завоеватель, захвативший Иерусалим. Он приказал построить ворота и посвятил их вавилонской богине Иштар. Ворота были построены из глазурованного кирпича с чередующимися рядами барельефов mušḫuššu (драконов), aurochs (быков) и львов, символизирующих богов Мардука, Адада и Иштар соответственно."
+            }
+        },
+        "insignia": "SunKing", "country": "IQ",
+        "memoir": "King Nebuchadnezzar II reigned 604-562 BC, the peak of the Neo-Babylonian Empire. He is known as the biblical conqueror who captured Jerusalem. He ordered the construction of the gate and dedicated it to the Babylonian goddess Ishtar. The gate was constructed using glazed brick with alternating rows of bas-relief mušḫuššu (dragons), aurochs (bulls), and lions, symbolizing the gods Marduk, Adad, and Ishtar respectively."
+    },
+    "Great Wall of China":
+    {
+        "language": {
+            "RU": {
+                "title": "Великая китайская стена",
+                "memoir": "Великая Китайская стена — это ряд укреплений, которые были построены вдоль исторических северных границ древних китайских государств и императорского Китая в качестве защиты от различных кочевых групп из Евразийской степи. Несколько стен были построены еще в VII веке до нашей эры, а отдельные участки позже присоединил Цинь Шихуанди (220–206 гг. до н. э.), первый император Китая. От стены Цинь осталось немногое. Позже многие последующие династии построили и поддерживали несколько участков пограничных стен. Самые известные участки стены были построены династией Мин (1368–1644)."
+            }
+        },
+        "insignia": "NotreDame", "country": "CN",
+        "memoir": "The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC, with selective stretches later joined by Qin Shi Huang (220–206 BC), the first emperor of China. Little of the Qin wall remains. Later on, many successive dynasties built and maintained multiple stretches of border walls. The best-known sections of the wall were built by the Ming dynasty (1368–1644)."
+    },
+    "Western culture":
+    {
+        "language": {
+            "RU": {
+                "title": "Западная культура",
+                "memoir": "Исторически ученые тесно связывали идею западной культуры с классической эпохой греко-римской античности. Однако ученые также признают, что другие древние культуры, такие как Древний Египет, финикийские города-государства и несколько ближневосточных культур, стимулировали и способствовали развитию западной цивилизации. Эллинистический период также способствовал синкретизму, смешивая греческую, римскую и еврейскую культуры. Крупные достижения в литературе, инженерии и науке сформировали эллинистическую еврейскую культуру, из которой появились самые ранние христиане и греческий Новый Завет. Окончательная христианизация Европы в поздней античности гарантировала, что христианство, особенно католическая церковь, останется доминирующей силой в западной культуре на протяжении многих последующих столетий."
+            }
+        },
+        "insignia": "Spartan", "country": "EU",
+        "memoir": "Historically, scholars have closely associated the idea of Western culture with the classical era of Greco-Roman antiquity. However, scholars also acknowledge that other ancient cultures, like Ancient Egypt, the Phoenician city-states, and several Near-Eastern cultures stimulated and fostered Western civilization. The Hellenistic period also promoted syncretism, blending Greek, Roman, and Jewish cultures. Major advances in literature, engineering, and science shaped the Hellenistic Jewish culture from which the earliest Christians and the Greek New Testament emerged. The eventual Christianization of Europe in late-antiquity would ensure that Christianity, particularly the Catholic Church, remained a dominant force in Western culture for many centuries to follow."
+    },
+    "Petra":
+    {
+        "language": {
+            "RU": {
+                "title": "Петра",
+                "memoir": "Еврейский историк Иосиф Флавий (ок. 37-100 гг. н. э.) пишет, что регион был заселен мадианитянами во времена Моисея, и что ими правили пять царей, одним из которых был Рекем. Иосиф Флавий упоминает, что город, называемый греками Петрой, «занимает самое высокое место в земле арабов» и все арабы его времени по-прежнему называли его Рекеме, в честь его царственного основателя (Древности IV. 7, 1; 4, 7). Ономастикон Евсевия также идентифицировал Рекем как Петру. Арабское слово raqama означает «отмечать, украшать», поэтому Рекеме могло быть набатейским словом, относящимся к знаменитым резным каменным фасадам. В 1964 году рабочие, расчищавшие щебень со скалы у входа в ущелье, обнаружили несколько погребальных надписей набатейским шрифтом. Одно из них было посвящено некоему Петраиосу, который родился в Ракму (Рекеме) и похоронен в Гаршу (Джераше)."
+            }
+        },
+        "insignia": "NotreDame", "country": "IL",
+        "memoir": "The Jewish historian Josephus (ca. 37-100 AD) writes that the region was inhabited by the Midianites during the time of Moses, and that they were ruled by five kings, one of whom was Rekem. Josephus mentions that the city, called Petra by the Greeks, \"ranks highest in the land of the Arabs\" and was still called Rekeme by all the Arabs of his time, after its royal founder (Antiquities iv. 7, 1; 4, 7). The Onomasticon of Eusebius also identified Rekem as Petra. Arabic raqama means \"to mark, to decorate\", so Rekeme could be a Nabataean word referring to the famous carved rock façades. In 1964, workmen clearing rubble away from the cliff at the entrance to the gorge found several funerary inscriptions in Nabatean script. One of them was to a certain Petraios who was born in Raqmu (Rekem) and buried in Garshu (Jerash)."
+    },
+    "Gladiators":
+    {
+        "language": {
+            "RU": {
+                "title": "Гладиаторы",
+                "memoir": "Два других источника гладиаторов, которые все чаще встречались во время принципата и относительно низкой военной активности Pax Romana, были рабы, осужденные на арену (damnati), в гладиаторские школы или игры (ad ludum gladiatorium) в качестве наказания за преступления, и платные добровольцы (auctorati), которые к концу Республики могли составлять примерно половину — и, возможно, самую способную половину — всех гладиаторов. Использование добровольцев имело прецедент в иберийском munus Сципиона Африканского; но никто из них не получал плату."
+            }
+        },
+        "insignia": "Colosseum", "country": "IT",
+        "memoir": "Two other sources of gladiators, found increasingly during the Principate and the relatively low military activity of the Pax Romana, were slaves condemned to the arena (damnati), to gladiator schools or games (ad ludum gladiatorium) as punishment for crimes, and the paid volunteers (auctorati) who by the late Republic may have comprised approximately half - and possibly the most capable half - of all gladiators. The use of volunteers had a precedent in the Iberian munus of Scipio Africanus; but none of those had been paid."
+    },
+    "Last Supper":
+    {
+        "language": {
+            "RU": {
+                "title": "Тайная вечеря",
+                "memoir": "И когда они ели, Иисус взял хлеб и, благословив, преломил и, раздавая ученикам, сказал: приимите, ядите: сие есть Тело Мое. И, взяв чашу и благодарив, подал им и сказал: пейте из нее все, ибо сие есть Кровь Моя Нового Завета, за многих изливаемая во оставление грехов. Сказываю же вам, что отныне не буду пить от плода сего виноградного до того дня, когда буду пить с вами новое [вино] в Царстве Отца Моего. - От Матфея 26:26-29, Синодальный перевод."
+            }
+        },
+        "insignia": "Wine", "country": "IL",
+        "memoir": "While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, \"Take and eat; this is my body.\" Then he took a cup, and when he had given thanks, he gave it to them, saying, \"Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins. I tell you, I will not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father’s kingdom.\" - Matthew 26:26-29, New International Version."
+    },
+    "Daedalus and Icarus":
+    {
+        "language": {
+            "RU": {
+                "title": "Дедал и Икар",
+                "memoir": "Дедал был изобретателем, который жил в Афинах. Говорили, что он мог подчинять природу своей воле. Минос, царь острова Крит, слышал об этой репутации и взял Дедала и его сына Икара на Крит, где он поручил им помочь построить удивительный дворец; лабиринт такой сложности, что никто не мог из него сбежать. Когда дворец был закончен, Дедал хотел вернуться на Крит со своим сыном, но царь не позволил этого. Однажды Дедал придумал план их побега и сделал крылья из перьев и воска для себя и Икара, чтобы сбежать. Сначала кажется, что план работает, но затем Икар подлетает слишком близко к солнцу, его перья опадают, и он падает и разбивается насмерть."
+            }
+        },
+        "insignia": "Wright", "country": "GR",
+        "memoir": "Daedalus was an inventor who lived in Athens. It was said he could bend nature to his will. Minos, the king of the island of Crete, had heard of this reputation and took Daedalus and his son, Icarus, to Crete where he tasks them with helping to make an astonishing palace; a labyrinth of such complexity that no one could escape from it. When the palace is completed, Daedalus wants to return to Crete with his son but the king will not allow it. One day Daedalus comes up with a plan for their escape and he fashions wings out of feathers and wax for himself and Icarus to escape by. At first it seems the plan is working, but then Icarus flies too close to the heat of the sun, his feathers fall away and he plummets to his death."
+    },
+    "Caribbean":
+    {
+        "language": {
+            "RU": {
+                "title": "Карибские острова",
+                "memoir": "Вскоре после того, как Христофор Колумб прибыл на Карибы, португальские и испанские исследователи начали претендовать на территории в Центральной и Южной Америке. Эти ранние колонии принесли золото в Европу; в частности, в Англию, Нидерланды и Францию. Эти страны надеялись основать прибыльные колонии в Карибском море. Колониальное соперничество сделало Карибское море ареной европейских войн на протяжении столетий. Колумб и первые колонисты Эспаньолы жестоко обращались с коренными народами, даже обращая в рабство детей. В 1512 году под давлением доминиканских монахов испанской короной были введены законы Бургоса, чтобы лучше защитить права коренных жителей Нового Света. Испанцы использовали форму рабства, называемую энкомьенда, когда рабы передавались конкистадорам, которым было поручено защищать и обращать своих рабов. Это имело разрушительные последствия для населения, поэтому, начиная с 1503 года, в колонию стали завозить рабов из Африки."
+            }
+        },
+        "insignia": "Ship", "country": "BS",
+        "memoir": "Soon after Christopher Columbus came to the Caribbean, both Portuguese and Spanish explorers began claiming territories in Central and South America. These early colonies brought gold to Europe; most specifically England, the Netherlands, and France. These nations hoped to establish profitable colonies in the Caribbean. Colonial rivalries made the Caribbean a cockpit for European wars for centuries. Columbus, and the early colonists of Hispaniola, treated the indigenous peoples brutally, even enslaving children. In 1512, after pressure from Dominican friars, the Laws of Burgos were introduced by the Spanish Crown to better protect the rights of the New World natives. The Spanish used a form of slavery called the Encomienda, where slaves would be awarded to the conquistadors, who were charged with protecting and converting their slaves. This had a devastating impact on the population, so starting in 1503, slaves from Africa were imported to the colony."
     },
     "Temple of Artemis at Ephesus":
     {
