@@ -1,4 +1,4 @@
-# Kunstkammer Wallpaper Collection
+# Art Gallery Wallpaper Collection
 
 A premium quality, aesthetic wallpapers for every moment of your life.
 
